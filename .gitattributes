@@ -1,0 +1,2 @@
+android-studio-2024.2.1.6-windows.zip filter=lfs diff=lfs merge=lfs -text
+jdk-17.0.14_windows-x64_bin.msi filter=lfs diff=lfs merge=lfs -text
